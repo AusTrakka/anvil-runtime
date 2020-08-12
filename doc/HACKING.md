@@ -48,7 +48,7 @@ $ npm run build
 Next, build the server components and produce a Python package ready for distribution:
 
 ```bash
-$ cd ../packaging/standalone
+$ cd ../packaging/app-server
 $ ./build-all
 ```
 
